@@ -9,7 +9,7 @@ BOT_TOKEN = "5426835246:AAGpWNE1EQF5_t56BmcdD8QWSJhCtynh3gk"
 
 FORCE_SUB = "False" 
 
-DB_NAME = ""      
+DB_NAME = "my"      
 
 DB_URL = "mongodb+srv://erai:test@cluster0.klm94v8.mongodb.net/?retryWrites=true&w=majority"
  
