@@ -11,7 +11,7 @@ FORCE_SUB = "False"
 
 DB_NAME = ""      
 
-DB_URL = "mongodb+srv://erai:test@cluster0.klm94v8.mongodb.net/?retryWrites=true&w=majority""
+DB_URL = "mongodb+srv://erai:test@cluster0.klm94v8.mongodb.net/?retryWrites=true&w=majority"
  
 FLOOD = "10"
 
